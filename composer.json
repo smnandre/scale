@@ -1,0 +1,70 @@
+{
+    "name": "alto/scale",
+    "description": "A nano package for computing and manipulating modular scales (typography, rhythm, grids).",
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "modular-scale",
+        "typography",
+        "design-system",
+        "grid",
+        "rhythm",
+        "scale",
+        "fibonacci",
+        "golden-ratio",
+        "linear-scale",
+        "geometric-progression"
+    ],
+    "authors": [
+        {
+            "name": "Simon André",
+            "email": "smn.andre@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/phpalto/scale",
+    "support": {
+        "issues": "https://github.com/phpalto/scale/issues",
+        "docs": "https://github.com/phpalto/scale#readme"
+    },
+    "funding": [
+        {
+            "type": "github",
+            "url": "https://github.com/sponsors/smnandre"
+        }
+    ],
+    "require": {
+        "php": "^8.4"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.92.4",
+        "phpstan/phpstan": "^2.1",
+        "phpunit/phpunit": "^12.5"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Alto\\Scale\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Alto\\Scale\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        },
+        "sort-packages": true
+    },
+    "scripts": {
+        "cs": "vendor/bin/php-cs-fixer fix",
+        "qa": [
+            "@cs",
+            "@sa",
+            "@test"
+        ],
+        "sa": "vendor/bin/phpstan analyse",
+        "test": "vendor/bin/phpunit"
+    }
+}
