@@ -5,12 +5,12 @@ It handles the arithmetic of progressions, designed for generative design, typog
 
 ---
 
-&nbsp; [![PHP Version](https://img.shields.io/badge/PHP-8.4+-ffefdf?logoColor=white&labelColor=000)](https://github.com/PhpAlto/scale)
+&nbsp; [![PHP Version](https://img.shields.io/badge/PHP-8.4+-ffefdf?logoColor=white&labelColor=000)](https://github.com/altophp/scale)
 &nbsp; [![Packagist Version](https://img.shields.io/packagist/v/alto/scale?label=Stable&logoColor=white&logoSize=auto&labelColor=000&color=ffefdf)](https://packagist.org/packages/alto/scale)
-&nbsp; [![CI](https://img.shields.io/github/actions/workflow/status/PhpAlto/scale/CI.yml?branch=main&label=Tests&logoColor=white&logoSize=auto&labelColor=000&color=ffefdf)](https://github.com/PhpAlto/scale/actions)
-&nbsp; [![PHP Version](https://img.shields.io/badge/PHPUnit-100%25-ffefdf?logoColor=white&labelColor=000)](https://github.com/PhpAlto/scale)
-&nbsp; [![PHP Version](https://img.shields.io/badge/PHPStan-LVL%2010-ffefdf?logoColor=white&labelColor=000)](https://github.com/PhpAlto/scale)
-&nbsp; [![License](https://img.shields.io/github/license/PhpAlto/scale?label=License&logoColor=white&logoSize=auto&labelColor=000&color=ffefdf)](./LICENSE)
+&nbsp; [![CI](https://img.shields.io/github/actions/workflow/status/altophp/scale/CI.yml?branch=main&label=Tests&logoColor=white&logoSize=auto&labelColor=000&color=ffefdf)](https://github.com/altophp/scale/actions)
+&nbsp; [![PHP Version](https://img.shields.io/badge/PHPUnit-100%25-ffefdf?logoColor=white&labelColor=000)](https://github.com/altophp/scale)
+&nbsp; [![PHP Version](https://img.shields.io/badge/PHPStan-LVL%2010-ffefdf?logoColor=white&labelColor=000)](https://github.com/altophp/scale)
+&nbsp; [![License](https://img.shields.io/github/license/altophp/scale?label=License&logoColor=white&logoSize=auto&labelColor=000&color=ffefdf)](./LICENSE)
 
 
 ## Installation

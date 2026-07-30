@@ -21,10 +21,10 @@
             "email": "smn.andre@gmail.com"
         }
     ],
-    "homepage": "https://github.com/phpalto/scale",
+    "homepage": "https://github.com/altophp/scale",
     "support": {
-        "issues": "https://github.com/phpalto/scale/issues",
-        "docs": "https://github.com/phpalto/scale#readme"
+        "issues": "https://github.com/altophp/scale/issues",
+        "docs": "https://github.com/altophp/scale#readme"
     },
     "funding": [
         {
