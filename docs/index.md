@@ -23,12 +23,14 @@ Scale::majorThird(16)->snap(19.8); // 20.0
 ## Scales
 
 - [All scales](scales/index.md): choose a progression for the values you need.
-- [Modular](scales/modular.md): generate a geometric progression from a base and ratio.
-- [Linear](scales/linear.md): generate values separated by a constant increment.
-- [Fibonacci](scales/fibonacci.md): generate a scaled Fibonacci sequence.
-- [Multi-strand](scales/multi-strand.md): interleave several modular progressions.
 
 ## Analysis
 
 - [Guessing](guessing.md): infer a modular scale from existing positive values.
 - [Linting](linting.md): audit values and align them to a scale.
+
+## Package
+
+- [Changelog](https://github.com/altophp/scale/blob/main/CHANGELOG.md): release history.
+- [Contributing](https://github.com/altophp/scale/blob/main/CONTRIBUTING.md): prepare and validate a change.
+- [Support](https://github.com/altophp/scale/blob/main/SUPPORT.md): ask a question or report a problem.

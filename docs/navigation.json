@@ -1,0 +1,8 @@
+{
+    "parents": {
+        "scales/modular": "scales",
+        "scales/linear": "scales",
+        "scales/fibonacci": "scales",
+        "scales/multi-strand": "scales"
+    }
+}
